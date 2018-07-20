@@ -1,0 +1,6 @@
+C:\Intel\Projekt\ConsigmentShopLibrary\bin\Debug\ConsigmentShopLibrary.dll
+C:\Intel\Projekt\ConsigmentShopLibrary\bin\Debug\ConsigmentShopLibrary.pdb
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\BoljiSvijetBiblioteka.csproj.CoreCompileInputs.cache
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.dll
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.pdb
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\BoljiSvijetBiblioteka.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Baksa\source\repos\Projekt\ConsigmentShopLibrary\bin\Debug\ConsigmentShopLibrary.dll
+C:\Users\Baksa\source\repos\Projekt\ConsigmentShopLibrary\bin\Debug\ConsigmentShopLibrary.pdb
+C:\Users\Baksa\source\repos\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.csprojAssemblyReference.cache
+C:\Users\Baksa\source\repos\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Baksa\source\repos\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.dll
+C:\Users\Baksa\source\repos\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.pdb
+C:\Intel\Projekt\ConsigmentShopLibrary\bin\Debug\ConsigmentShopLibrary.dll
+C:\Intel\Projekt\ConsigmentShopLibrary\bin\Debug\ConsigmentShopLibrary.pdb
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.csprojAssemblyReference.cache
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.dll
+C:\Intel\Projekt\ConsigmentShopLibrary\obj\Debug\ConsigmentShopLibrary.pdb
